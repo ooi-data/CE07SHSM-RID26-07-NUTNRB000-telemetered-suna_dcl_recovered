@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE07SHSM-RID26-07-NUTNRB000-telemetered-suna_dcl_recovered
 last_request: '2021-12-04T01:02:39.457147Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-RID26-07-NUTNRB000-telemetered-suna_dcl_recovered/main/history/response.json
-status: pending
+status: success
